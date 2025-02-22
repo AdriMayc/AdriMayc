@@ -9,7 +9,7 @@
 <h2 align="center">Bem-Vindo</h2>
 
 <p align="center">
-  Sou estudante de programação em <strong>Full-Stack</strong>.
+  Sou estudante de <strong>Ciência de Dados</strong>.
 </p>
 
 <p align="center">
