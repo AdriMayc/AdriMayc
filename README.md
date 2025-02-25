@@ -48,11 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdriMayc&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000" alt="GitHub Stats" height="180rem" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriMayc&layout=compact&langs_count=10&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Linguagens"  height="180rem">
 </p>
-
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdriMayc&theme=dark&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&background=000000" alt="GitHub Streak">
-  </a>
-</p>
-
