@@ -1,50 +1,46 @@
-<p align="center">
-  <img src="https://github.com/AdriMayc/gif-assets/blob/main/download.gif" alt="Meu GIF" >
-</p>
+<h1 align="center">Bem-Vindo ao meu Perfil.</h1>
+<p align="center"><i>Transformando dados em decisões com engenharia, lógica e propósito.</i></p>
+
+---
+
+### Tecnologias e Competências
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub Logo">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-S3-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ETL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Comunicação-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Trabalho%20em%20Equipe-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Metodologias%20Ágeis-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Gestão%20do%20Tempo-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Big%20Data-black?style=for-the-badge" />
 </p>
 
-<h2 align="center">Bem-Vindo</h2>
+---
+
+### Vamos nos conectar?
 
 <p align="center">
-  Sou estudante de <strong>Ciência de Dados</strong>.
+  <a href="https://www.linkedin.com/in/adriano-mayco/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AdriMayc"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:adrianomayco2020@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-adriano-mayco.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-24292e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  Atualmente, tenho mais conhecimento com o <strong>Front-End</strong>, mas tenho grande interesse em <strong>Banco de Dados</strong> e <strong>Game Development</strong>.
-</p>
-
-<p align="center">
-  Contato: <a href="adri.mayco@protonmail.com">adri.mayco@protonmail.com</a>
-</p>
-
-
-<h2 align="center">Tecnologias e Ferramentas</h2>
-
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/AdriMayc/gif-assets/blob/main/icons8-tailwind-css-48.png" alt="Tailwind CSS" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/html-5.png" alt="HTML5" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/css3.png" alt="CSS3" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/bootstrap.png" alt="Bootstrap" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/javascript.png" alt="JavaScript" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/react-native.png" alt="React" width="40" height="40"></td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/AdriMayc/gif-assets/blob/main/icons8-visual-studio-50.png" alt="VSCode" width="40" height="40"></td>
-    <td><img src="https://github.com/AdriMayc/gif-assets/blob/main/icons8-trine-120-50.png" alt="Vercel" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/figma.png" alt="Figma" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/git.png" alt="Git" width="40" height="40"></td>
-    <td><img src="https://img.icons8.com/ios/50/ffffff/github.png" alt="GitHub" width="40" height="40"></td>
-  </tr>
-</table>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdriMayc&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000" alt="GitHub Stats" height="180rem" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriMayc&layout=compact&langs_count=10&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Linguagens"  height="180rem">
-</p>
+<p align="center"><strong>Aberto a novas oportunidades em Engenharia de Dados!</strong></p>
