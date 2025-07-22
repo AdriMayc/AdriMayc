@@ -5,7 +5,7 @@
 
 ### 》Sobre
 
-<p align="center">
+<p>
 Sou estudante de Ciência de Dados na FATEC Ourinhos, dedicado a aprimorar minhas habilidades em engenharia de dados, com foco em criação e gestão de pipelines, modelagem de dados e soluções em cloud computing. Busco minha primeira oportunidade profissional para aplicar conhecimentos teóricos e contribuir com projetos relevantes, sempre com foco em aprendizado contínuo e trabalho colaborativo.
 </p>
 
