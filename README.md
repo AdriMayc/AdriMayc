@@ -6,9 +6,8 @@
 ### 》Sobre
 
 <p>
-Sou estudante de Ciência de Dados na FATEC Ourinhos, dedicado a aprimorar minhas habilidades em engenharia de dados, com foco em criação e gestão de pipelines, modelagem de dados e soluções em cloud computing. Busco minha primeira oportunidade profissional para aplicar conhecimentos teóricos e contribuir com projetos relevantes, sempre com foco em aprendizado contínuo e trabalho colaborativo.
+Estudante de Ciência de Dados na FATEC Ourinhos, focado em Engenharia de Dados. Desenvolvo pipelines, modelo dados e crio soluções em cloud. Pronto para contribuir com projetos que geram impacto real. Vamos conversar?
 </p>
-
 ---
 
 ### 》Hard Skills
@@ -55,16 +54,15 @@ Sou estudante de Ciência de Dados na FATEC Ourinhos, dedicado a aprimorar minha
   <a href="https://www.linkedin.com/in/adriano-mayco/" target="_blank">
     LinkedIn |
   </a>
-  <a href="mailto:adrianomayco@gmail.com" target="_blank">
+  <a href="mailto:contato@adrianomayco.site" target="_blank">
     E-mail |
   </a>
-  <a href="https://portfolio-adriano-mayco.vercel.app/" target="_blank">
+  <a href="www.adrianomayco.site" target="_blank">
     Portfólio
   </a>
 </p>
 
 <h3 align="center"><i>Aberto a oportunidades.</i></h3>
-<p align="center"><i>Atualmente em busca da minha primeira oportunidade como Engenheiro de Dados Júnior, Estagiário.</i></p>
 
 ---
 
