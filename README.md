@@ -6,7 +6,7 @@
 ### 》Sobre
 
 <p>
-Sou estudante de Ciência de Dados na FATEC Ourinhos, com foco prático em Engenharia de Dados. Tenho experiência no desenvolvimento de pipelines de dados, modelagem eficiente e aplicação de soluções em cloud computing. Estou pronto para contribuir com projetos que exigem raciocínio analítico, organização e mentalidade orientada a dados.
+Atuando na área de Engenharia de Dados, com experiência prática no desenvolvimento de pipelines, modelagem de dados e aplicação de soluções em cloud computing. Possuo raciocínio analítico, organização e foco em entregar resultados consistentes, sempre buscando crescimento contínuo e aprendizado na área.
 </p>
 <p align="center"><strong>Se busca alguém comprometido em gerar valor desde o início, vamos conversar.</strong></p>
 
