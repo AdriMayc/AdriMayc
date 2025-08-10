@@ -5,9 +5,10 @@
 
 ### 》Sobre
 
-<p>
-Atuando na área de Engenharia de Dados, com experiência prática no desenvolvimento de pipelines, modelagem de dados e aplicação de soluções em cloud computing. Possuo raciocínio analítico, organização e foco em entregar resultados consistentes, sempre buscando crescimento contínuo e aprendizado na área.
-</p>
+Atuando na área de Engenharia de Dados com experiência prática no desenvolvimento de pipelines, modelagem de dados e soluções em cloud computing. Possuo raciocínio analítico, organização e foco em gerar valor real para projetos de dados, buscando sempre aprendizado contínuo e crescimento profissional.
+
+Busco desafios que me permitam aplicar e expandir minhas habilidades para entregar resultados concretos.
+
 <p align="center"><strong>Se busca alguém comprometido em gerar valor desde o início, vamos conversar.</strong></p>
 
 
