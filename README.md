@@ -1,8 +1,6 @@
 <h1 align="center">𝐏𝐫𝐚𝐳𝐞𝐫, 𝐬𝐨𝐮 𝐨 𝐀𝐝𝐫𝐢𝐚𝐧𝐨.</h1>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriMayc&radius=16&theme=xcode&area=true" height="300" alt="activity-graph graph" />
-</div>
+
 
 ###
 
@@ -30,7 +28,7 @@
 
 <div style="border: 1px solid #ffffff3d; border-radius: 12px; padding: 8px; margin: 10px 0px">
 
-<h3 align="left" >Data Engineer - Technologies:</h3>
+<h3 align="left" >Engenheiro de Dados - Tecnologias:</h3>
 
 ###
 
@@ -93,7 +91,7 @@
 <hr/>
 
 
-<h3 align="left">𝐄𝐱𝐭𝐫𝐚 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+<h3 align="left">Extra Skills:</h3>
 
 
 
@@ -113,6 +111,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriMayc&radius=16&theme=xcode&area=true" height="300" alt="activity-graph graph" />
 </div>
 
 
