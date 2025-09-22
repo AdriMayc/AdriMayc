@@ -30,7 +30,7 @@
 
 <div style="border: 1px solid #ffffff3d; border-radius: 12px; padding: 8px; margin: 10px 0px">
 
-<h3 align="left" >𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐧𝐞𝐫 - 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h3>
+<h3 align="left" >Data Engineer - Technologies:</h3>
 
 ###
 
