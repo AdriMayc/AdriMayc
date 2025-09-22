@@ -1,72 +1,118 @@
-<h1 align="center">Adriano Mayco</h1>
-<h3 align="center"><i>Engenheiro de Dados em formação apaixonado por transformar dados em soluções inteligentes</i></h3>
+<h1 align="center">𝐏𝐫𝐚𝐳𝐞𝐫, 𝐬𝐨𝐮 𝐨 𝐀𝐝𝐫𝐢𝐚𝐧𝐨.</h1>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriMayc&radius=16&theme=xcode&area=true" height="300" alt="activity-graph graph" />
+</div>
 
-### 》Sobre
+###
 
-Atuando na área de Engenharia de Dados com experiência prática no desenvolvimento de pipelines, modelagem de dados e soluções em cloud computing. Possuo raciocínio analítico, organização e foco em gerar valor real para projetos de dados, buscando sempre aprendizado contínuo e crescimento profissional.
-
-Busco desafios que me permitam aplicar e expandir minhas habilidades para entregar resultados concretos.
-
-<p align="center"><strong>Se busca alguém comprometido em gerar valor desde o início, vamos conversar.</strong></p>
-
-
----
-
-### 》Hard Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=orange" />
-  <img src="https://img.shields.io/badge/S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=orange" />
-  <img src="https://img.shields.io/badge/ETL-0D1117?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=orange" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modelagem%20de%20Dados-0D1117?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge&logo=mongodb&logoColor=green" />
-  <img src="https://img.shields.io/badge/APIs%20REST-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-### 》Soft Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe-0D1117?style=for-the-badge&logo=teams&logoColor=white" />
-  <img src="https://img.shields.io/badge/Comunicação-0D1117?style=for-the-badge&logo=googlechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gestão%20do%20Tempo-0D1117?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metodologias%20Ágeis-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-0D1117?style=for-the-badge&logo=leanpub&logoColor=white" />
-</p>
-
----
-
-### 》Contato
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/adriano-mayco/" target="_blank">
-    LinkedIn |
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:contato@adrianomayco.site" target="_blank">
-    E-mail |
+  <a href="https://medium.com/@adrianomayco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="www.adrianomayco.site" target="_blank">
-    Portfólio
+  <a href="https://www.adrianomayco.site/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=portfolio&label=&color=5D737E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
   </a>
-</p>
+</div>
 
-<h3 align="center"><i>Aberto a oportunidades.</i></h3>
+###
+<div style="border: 1px solid #ffffff3d; border-radius: 12px; padding: 8px;">
+<p align="left">》Sobre:</p>
 
----
+###
+
+<p align="left">Estou finalizando minha graduação em Ciência de Dados e orientando meus futuros passos para a Engenharia de Dados. Tenho grande interesse em converter dados brutos em informações úteis e aplicáveis, que possam auxiliar na tomada de decisões estratégicas e gerar um impacto significativo. Tenho um interesse particular em investigar diversas ferramentas e estruturas de dados, desde linguagens como Python e SQL até plataformas em nuvem como a AWS, sempre com o objetivo de alcançar eficiência e escalabilidade.<br><br>No momento, busco me aprimorar e adquirir mais conhecimento na área de Ciência e Engenharia de Dados, fortalecendo minha expertise técnica e ampliando minha habilidade para desenvolver soluções que agreguem valor tanto para empresas quanto para pessoas.</p>
+
+</div>
+
+<div style="border: 1px solid #ffffff3d; border-radius: 12px; padding: 8px; margin: 10px 0px">
+
+<h3 align="left" >𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐧𝐞𝐫 - 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h3>
+
+###
+
+<p align="left">》𝐏𝐲𝐭𝐡𝐨𝐧:</p>
+
+
+
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+ 
+</div>
+<hr/>
+
+
+<p align="left">》𝐁𝐚𝐧𝐜𝐨𝐬 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬:</p>
+
+
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+</div>
+<hr/>
+
+
+<p align="left">》𝐂𝐥𝐨𝐮𝐝 & 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠:</p>
+
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
+</div>
+<hr/>
+
+
+<p align="left">》𝐕𝐞𝐫𝐬𝐢𝐨𝐧𝐚𝐦𝐞𝐧𝐭𝐨 & 𝐃𝐞𝐯𝐎𝐩𝐬:</p>
+
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+<hr/>
+
+
+<h3 align="left">𝐄𝐱𝐭𝐫𝐚 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+
+
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+</div>
+
 
